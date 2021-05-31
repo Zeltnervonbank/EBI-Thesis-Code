@@ -55,7 +55,7 @@ namespace EBIVisualiser
             
             PredictionPlot.Model = model;
             
-            PlotModel positionModel = new PlotModel {Title = "Area Search Positions"};
+            PlotModel positionModel = new PlotModel {Title = "Active Search Positions"};
 
             PositionPlot.Model = positionModel;
             
